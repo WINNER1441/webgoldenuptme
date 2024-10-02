@@ -1,0 +1,22 @@
+body {
+    background-color: #202020; /* لون الخلفية */
+    font-family: Arial, sans-serif; /* نوع الخط */
+    text-align: center; /* محاذاة النص */
+    margin-top: 50px; /* هوامش من الأعلى */
+}
+
+h1 {
+    color: #343a40; /* لون العنوان */
+}
+
+button {
+    background-color: #ffffff; /* لون زر */
+    color: rgb(36, 36, 36); /* لون النص */
+    border: none; /* إزالة الحدود */
+    padding: 10px 20px; /* هوامش الزر */
+    cursor: pointer; /* شكل المؤشر */
+}
+
+button:hover {
+    background-color: #868a8f; /* تغيير لون الزر عند المرور */
+}
